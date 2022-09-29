@@ -1,0 +1,46 @@
+*{
+    box-sizing: 0px;
+}
+
+.simon{
+    display: flex;
+    justify-content: center;
+}
+
+h4 .h3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.contenedor-img{
+ text-align: center;
+
+}
+
+.buttom-img{
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#esfe{
+    color:yellow
+    
+}
+
+
+#btn{
+    font-family: cursive;
+}
+
+#Font{
+    font-family: cursive;
+}
+
+.fuentes{
+    font-family: cursive;
+}
+
+.banner-text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
